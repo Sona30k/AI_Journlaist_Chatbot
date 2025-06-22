@@ -19,13 +19,12 @@ A personalized AI-powered journalist that summarizes the latest **News** and **R
 ## 📸 Screenshots
 
 ### 🔍 1. Streamlit Web UI
-![Streamlit UI](screenshots/screenshot-1.png)
+![Streamlit UI](audio/1.jpg)
 
-### ⚙️ 2. Sidebar Settings
-![Sidebar](screenshots/screenshot-2.png)
+
 
 ### 🔊 3. Audio Output Summary
-![Audio Summary](screenshots/screenshot-3.png)
+![Audio Summary](audio/2.png)
 
 > 💡 Tip: Use JPG or PNG files, placed in `screenshots/` inside your repo.
 
