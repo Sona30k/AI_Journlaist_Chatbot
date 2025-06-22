@@ -1,4 +1,4 @@
-# AI_Journlaist_Chatbot
+
 
 # 🧠 AI Journalist Chatbot 🎙️
 
@@ -19,14 +19,13 @@ A personalized AI-powered journalist that summarizes the latest **News** and **R
 ## 📸 Screenshots
 
 ### 🔍 1. Streamlit Web UI
-![Streamlit UI](audio/1.jpg)
+![Streamlit UI](audio/2.png)
 
 
 
 ### 🔊 3. Audio Output Summary
-![Audio Summary](audio/2.png)
+![Audio Summary](audio/1.jpg)
 
-> 💡 Tip: Use JPG or PNG files, placed in `screenshots/` inside your repo.
 
 ---
 
